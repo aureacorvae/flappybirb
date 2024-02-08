@@ -1,17 +1,12 @@
 # list of all possible players (tuple of 3 positions of flap)
 PLAYERS = (
-    # red bird
+    # purple bird
     (
-        "assets/sprites/redbird-upflap.png",
-        "assets/sprites/redbird-midflap.png",
-        "assets/sprites/redbird-downflap.png",
+        "assets/sprites/purplebird-upflap.png",
+        "assets/sprites/purplebird-midflap.png",
+        "assets/sprites/purplebird-downflap.png",
     ),
-    # blue bird
-    (
-        "assets/sprites/bluebird-upflap.png",
-        "assets/sprites/bluebird-midflap.png",
-        "assets/sprites/bluebird-downflap.png",
-    ),
+ 
     # yellow bird
     (
         "assets/sprites/yellowbird-upflap.png",
