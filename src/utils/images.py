@@ -47,7 +47,6 @@ class Images:
         self.player = (
             pygame.image.load(PLAYERS[rand_player][0]).convert_alpha(),
             pygame.image.load(PLAYERS[rand_player][1]).convert_alpha(),
-            pygame.image.load(PLAYERS[rand_player][2]).convert_alpha(),
         )
         self.pipe = (
             pygame.transform.flip(
